@@ -1,10 +1,10 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2022-08- 17'
+title: 'Design Engineer'
+company: 'Piaggio Private Limited'
+location: 'Pune, India'
+range: 'August - June 2023'
+url: 'https://www.piaggio.com/us_EN/'
 ---
 
 - Developed and styled interactive web applications for Apple Music using Ember and SCSS

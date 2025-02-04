@@ -125,7 +125,17 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'Python',
+    'C/C++',
+    'ROS 1/2',
+    'Tensorflow',
+    'Pytorch',
+    'OpenCV',
+    'Gazebo',
+    'SolidWorks',
+    'Fusion 360',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,33 +145,27 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Akshay Mahalle, and I have a strong passion for robotics and
+              automation. My journey began with a deep interest in mechanical engineering, which
+              gradually evolved into a focus on robotics and computer vision. Over the years, I've
+              developed a robust skill set in designing and simulating robotic systems, with a
+              particular emphasis on using ROS, PyBullet, and various CAD tools like SolidWorks and
+              Fusion 360.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Currently, I'm pursuing a Master's degree in Robotics and Autonomous Systems at
+              Arizona State University, where I've had the opportunity to work on cutting-edge
+              research projects like the Digital Twin of the Virtual Shake Robot. My professional
+              experience includes roles as a Design Engineer and a Research Assistant, where I've
+              applied my skills to real-world challenges, from automotive design to seismic hazard
+              simulation.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              I'm always eager to learn and grow, and I enjoy taking on new challenges that push the
+              boundaries of technology. Here are a few technologies I’ve been working with recently:
             </p>
-
-            <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">
@@ -173,11 +177,11 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.png"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
-              alt="Headshot"
+              alt="Akshay Mahalle"
             />
           </div>
         </StyledPic>

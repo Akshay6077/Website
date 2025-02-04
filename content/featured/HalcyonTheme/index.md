@@ -1,15 +1,15 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Virtual Shake Robot 2'
+cover: './virtual-shake-table.png'
+github: 'https://github.com/Akshay6077/virtual_shake_robot_pybullet'
+# external: 'https://halcyon-theme.netlify.com/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - ROS2
+  - Pybullet
+  - Autodesk Fusion  360
+  - Python
+  - C++
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A simulation tool designed for studying seismic hazards using Precariously Balanced Rocks (PBRs). The full project and source code are available on [GitHub](https://github.com/Akshay6077/virtual_shake_robot_pybullet).

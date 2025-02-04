@@ -1,8 +1,8 @@
 ---
 date: '2019-07-15'
-title: 'OctoProfile'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+title: 'Virtual Shake Robot -6 DOF'
+github: 'https://github.com/Akshay6077/VSR_Pro'
+external: ''
 tech:
   - Next.js
   - Chart.js

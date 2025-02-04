@@ -60,28 +60,27 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Akshay Mahalle.</h2>;
+  const three = <h3 className="big-heading">Crafting Intelligent Robotic Solutions.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        I’m a Robotics engineer specializing in simulation engines such as Gazebo and PyBullet,
+        along with frameworks like ROS/ROS2. I also work extensively with hardware integration to
+        create seamless, autonomous systems. Currently, I’m focused on building accessible,
+        human-centered robotic solutions that bridge the gap between simulation and real-world
+        application.
       </p>
     </>
   );
+
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://github.com/Akshay6077/virtual_shake_robot_pybullet"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Check out my current project!
     </a>
   );
 

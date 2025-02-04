@@ -1,9 +1,9 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Autonomous Multi-Robot Mapping'
+cover: './3.jpeg'
+github: 'https://github.com/Akshay6077/virtual_shake_robot_pybullet'
+external: 'https://drive.google.com/file/d/1xz--qUp0IL0JAkQ0x-NRc7dJJD1v1CiN/view?usp=drive_link'
 tech:
   - React
   - Styled Components

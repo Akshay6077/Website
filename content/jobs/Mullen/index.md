@@ -1,10 +1,10 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2019-08-12'
+title: 'Mechanical Intern'
+company: 'KSB Private Limited'
+location: 'Pune, Maharashtra'
+range: 'August 2019 - July 2020'
+url: 'https://www.ksb.com/en-us'
 ---
 
 - Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery

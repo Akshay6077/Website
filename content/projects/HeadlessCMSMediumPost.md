@@ -1,15 +1,15 @@
 ---
 date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+title: 'My-Cobot (Industrial Robot)'
+github: 'https://github.com/Akshay6077/Project_cobot'
+external: ''
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - Matlab
+  - Simulink
+  - Cobot
+  - Fanuc
+company: 'Arizona State University'
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+A 6-DOF robotic arm simulation system built with ROS2 and MATLAB Simulink, featuring precise motion planning through integrated forward and inverse kinematics for industrial automation applications.

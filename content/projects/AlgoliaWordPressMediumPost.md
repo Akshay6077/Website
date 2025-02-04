@@ -1,14 +1,15 @@
 ---
 date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+title: 'Expressive Robotic Hand'
+github: 'https://github.com/Akshay6077/Expressive-Robotic-Hand'
+external: 'https://drive.google.com/file/d/1qiprMz704vBenYopNEubGbeqlyf8qBFx/view?usp=sharing'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
-showInProjects: true
+  - OpenCV
+  - Python
+  - MediaPipe
+  - Arduino
+company: 'Arizona State University'
+showInProjects: True
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+A computer vision-driven robotic hand system that mimics human hand movements in real-time using MediaPipe for gesture recognition and servo motors for precise finger control. Features dynamic calibration and natural movement mapping.

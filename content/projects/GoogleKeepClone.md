@@ -1,12 +1,14 @@
 ---
 date: '2018-12-29'
-title: 'Google Keep Clone'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+title: 'Automotive Helper Robot'
+github: ''
+external: ''
 tech:
-  - Vue
-  - Firebase
+  - Arduino
+  - C++
+  - Gazebo
+  - OpenCV
 showInProjects: true
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+Developed an automated robotic assistant system for automotive applications, featuring real-time obstacle avoidance and dynamic path planning. Integrated advanced sensors and actuators to enhance operational efficiency by 20%, while implementing a streamlined development pipeline that reduced testing cycles by 30%
