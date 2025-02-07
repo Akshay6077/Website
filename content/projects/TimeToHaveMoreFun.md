@@ -4,11 +4,11 @@ title: 'Neckband for Speech Assistance'
 github: ''
 external: 'https://drive.google.com/file/d/1T5jnFxdsWjeEw6Iwearr2ZluknS1esme/view?usp=sharing'
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - Arduino
+  - Speech Recognition
+  - Computer Vision
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+A collaborative project with Barrow Neurological Institute developing an adaptive wearable device that helps Parkinson's patients regulate speech volume through real-time signal processing and tactile feedback.

@@ -5,12 +5,10 @@ cover: './arch.png'
 external: 'https://github.com/Akshay6077/VoxFormer_Waymo-'
 cta: 'https://github.com/Akshay6077/VoxFormer_Waymo-'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - PyTorch
+  - Cuda
+  - MobileNet
+  - Transformer Architecture
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+Engineered an optimized 3D semantic scene completion system for autonomous driving applications, focusing on efficient environment perception and real-time processing. The system leverages MobileNet integration and a novel two-stage pipeline to generate accurate 3D scene reconstructions from 2D inputs, enabling robust obstacle detection and scene understanding within a 30-meter range. This implementation achieves state-of-the-art performance while reducing computational demands, making it ideal for real-world autonomous driving scenarios.
